@@ -1,0 +1,23 @@
+Número de recipientes: 19
+
+Recipiente 1: [10, 14] | soma = 24
+Recipiente 2: [17, 7] | soma = 24
+Recipiente 3: [19, 6] | soma = 25
+Recipiente 4: [14, 9] | soma = 23
+Recipiente 5: [12, 12] | soma = 24
+Recipiente 6: [4, 8, 3, 5] | soma = 20
+Recipiente 7: [25] | soma = 25
+Recipiente 8: [19, 6] | soma = 25
+Recipiente 9: [25] | soma = 25
+Recipiente 10: [24] | soma = 24
+Recipiente 11: [20] | soma = 20
+Recipiente 12: [25] | soma = 25
+Recipiente 13: [24] | soma = 24
+Recipiente 14: [21] | soma = 21
+Recipiente 15: [15, 10] | soma = 25
+Recipiente 16: [14, 7] | soma = 21
+Recipiente 17: [20] | soma = 20
+Recipiente 18: [13] | soma = 13
+Recipiente 19: [20] | soma = 20
+
+Capacidade dos recipientes: 25

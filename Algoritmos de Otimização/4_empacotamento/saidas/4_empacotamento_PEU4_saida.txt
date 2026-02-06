@@ -1,0 +1,32 @@
+Número de recipientes: 28
+
+Recipiente 1: [16, 6, 4, 4] | soma = 30
+Recipiente 2: [25, 5] | soma = 30
+Recipiente 3: [19, 10] | soma = 29
+Recipiente 4: [24, 3, 3] | soma = 30
+Recipiente 5: [19, 7, 4] | soma = 30
+Recipiente 6: [25, 5] | soma = 30
+Recipiente 7: [21, 6] | soma = 27
+Recipiente 8: [24, 5] | soma = 29
+Recipiente 9: [16, 13] | soma = 29
+Recipiente 10: [27] | soma = 27
+Recipiente 11: [17, 10] | soma = 27
+Recipiente 12: [23, 7] | soma = 30
+Recipiente 13: [21, 4, 4] | soma = 29
+Recipiente 14: [22] | soma = 22
+Recipiente 15: [15, 14] | soma = 29
+Recipiente 16: [16, 12] | soma = 28
+Recipiente 17: [19] | soma = 19
+Recipiente 18: [29] | soma = 29
+Recipiente 19: [28] | soma = 28
+Recipiente 20: [18, 12] | soma = 30
+Recipiente 21: [17, 12] | soma = 29
+Recipiente 22: [29] | soma = 29
+Recipiente 23: [18] | soma = 18
+Recipiente 24: [14, 14] | soma = 28
+Recipiente 25: [24] | soma = 24
+Recipiente 26: [26] | soma = 26
+Recipiente 27: [30] | soma = 30
+Recipiente 28: [20] | soma = 20
+
+Capacidade dos recipientes: 30

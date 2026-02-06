@@ -1,0 +1,10 @@
+Módulo 1 -> Programador 2
+Módulo 2 -> Programador 1
+Módulo 3 -> Programador 2
+Módulo 4 -> Programador 1
+Módulo 5 -> Programador 1
+
+Custo total: 22
+
+P1: 22 / 30
+P2: 25 / 25

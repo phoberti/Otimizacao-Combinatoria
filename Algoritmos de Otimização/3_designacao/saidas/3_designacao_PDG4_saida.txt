@@ -1,0 +1,21 @@
+Módulo 1 -> Programador 6
+Módulo 2 -> Programador 2
+Módulo 3 -> Programador 1
+Módulo 4 -> Programador 1
+Módulo 5 -> Programador 4
+Módulo 6 -> Programador 4
+Módulo 7 -> Programador 2
+Módulo 8 -> Programador 3
+Módulo 9 -> Programador 1
+Módulo 10 -> Programador 1
+Módulo 11 -> Programador 4
+Módulo 12 -> Programador 5
+
+Custo total: 35
+
+P1: 26 / 30
+P2: 27 / 30
+P3: 10 / 30
+P4: 27 / 30
+P5: 16 / 30
+P6: 3 / 30

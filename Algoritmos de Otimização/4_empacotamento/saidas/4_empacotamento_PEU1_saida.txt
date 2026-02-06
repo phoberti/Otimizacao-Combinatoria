@@ -1,0 +1,14 @@
+Número de recipientes: 10
+
+Recipiente 1: [11, 4, 3, 2] | soma = 20
+Recipiente 2: [11, 9] | soma = 20
+Recipiente 3: [12, 3, 3, 2] | soma = 20
+Recipiente 4: [11, 8] | soma = 19
+Recipiente 5: [20] | soma = 20
+Recipiente 6: [15, 3] | soma = 18
+Recipiente 7: [19] | soma = 19
+Recipiente 8: [18] | soma = 18
+Recipiente 9: [19] | soma = 19
+Recipiente 10: [11, 7] | soma = 18
+
+Capacidade dos recipientes: 20
