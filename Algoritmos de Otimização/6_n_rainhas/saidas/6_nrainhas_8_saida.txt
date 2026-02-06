@@ -1,0 +1,11 @@
+Solução final:
+Coluna 1 -> Linha 4
+Coluna 2 -> Linha 8
+Coluna 3 -> Linha 1
+Coluna 4 -> Linha 3
+Coluna 5 -> Linha 6
+Coluna 6 -> Linha 2
+Coluna 7 -> Linha 7
+Coluna 8 -> Linha 5
+
+Número de conflitos: 0
