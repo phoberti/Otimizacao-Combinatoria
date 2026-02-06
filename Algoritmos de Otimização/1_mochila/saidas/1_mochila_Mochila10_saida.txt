@@ -1,0 +1,6 @@
+Itens selecionados (1-indexado):
+2 4 5 8 10
+
+Benefício total: 189
+Custo total: 104
+Capacidade: 105
